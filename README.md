@@ -13,8 +13,6 @@ Ingénieur Ensimag, master Data Science & IA. Je travaille sur les LLM : RAG, ag
 - **[hpc_mosig](https://github.com/kmadou019/hpc_mosig)** : distance d'édition entre séquences d'ADN (Needleman-Wunsch) parallélisée sur GPU avec CUDA.
 - **[PDDL4J](https://github.com/kmadou019/PDDL4J)** : planificateur qui encode les problèmes de planification en SAT (PDDL4J, SAT4J), comparé à un planificateur heuristique.
 
-**Web**
-- **[frise](https://github.com/kmadou019/frise)** : application web de frise chronologique, synchronisée via l'API GitHub et déployée avec GitHub Actions.
 
 #### Stack
 
