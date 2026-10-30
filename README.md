@@ -1,20 +1,21 @@
-### Bonjour, je suis Madou Koné 👋
+### Madou Koné
 
-Ingénieur Ensimag (systèmes d'information) avec un master en Data Science & IA (Grenoble, 2025). Depuis un an et demi, je conçois des pipelines LLM de bout en bout en laboratoire de recherche (LIG, équipe DAISY) : RAG, agents, graphes de connaissance, optimisation de prompts, évaluation de modèles et fine-tuning.
+Ingénieur Ensimag, master Data Science & IA. Je travaille sur les LLM : RAG, agents, graphes de connaissance, évaluation et fine-tuning de modèles.
 
-**Disponible à partir de novembre 2026** pour un poste d'ingénieur IA / data scientist, à Grenoble ou en Île-de-France.
+#### Projets
 
-#### 🔬 Projets à la une
+**IA & LLM**
+- **[subjective-comment-clf](https://github.com/kmadou019/subjective-comment-clf)** : classification de commentaires d'élèves en catégories métacognitives par RAG avec des LLM open source (LangGraph, ChromaDB, Ollama). Publié à EC-TEL 2025.
+- **[slm-mcq-finetuning](https://github.com/kmadou019/slm-mcq-finetuning)** : génération et évaluation automatique de QCM médicaux. Prompts enrichis par graphe de connaissance (SPARQL, MCP), LLM-as-a-judge, plateforme de validation FastAPI + Angular, fine-tuning KTO.
+- **[datachallenge](https://github.com/kmadou019/datachallenge)** : assistant d'examen juridique avec recherche sémantique (FAISS), génération de questions par RAG et évaluation des réponses par débat entre LLM.
 
-- **[subjective-comment-clf](https://github.com/kmadou019/subjective-comment-clf)** : classification de commentaires d'élèves par RAG et LLM open source. Accuracy de 0,55 à 0,80, kappa de 0,77. Publié à **EC-TEL 2025**.
-- **[slm-mcq-finetuning](https://github.com/kmadou019/slm-mcq-finetuning)** : génération de QCM médicaux (projet PARTAGES), prompts enrichis par graphe de connaissance (SPARQL, MCP), LLM-as-a-judge, plateforme de validation experte FastAPI + Angular, fine-tuning KTO.
-- **[datachallenge](https://github.com/kmadou019/datachallenge)** : assistant d'examen juridique en équipe, avec recherche sémantique FAISS, génération de questions par RAG et débat entre LLM.
-- **[hpc_mosig](https://github.com/kmadou019/hpc_mosig)** : distance d'édition entre séquences d'ADN parallélisée sur GPU avec CUDA.
+**Algorithmique & calcul**
+- **[hpc_mosig](https://github.com/kmadou019/hpc_mosig)** : distance d'édition entre séquences d'ADN (Needleman-Wunsch) parallélisée sur GPU avec CUDA.
+- **[PDDL4J](https://github.com/kmadou019/PDDL4J)** : planificateur qui encode les problèmes de planification en SAT (PDDL4J, SAT4J), comparé à un planificateur heuristique.
 
-#### 🛠️ Stack
+**Web**
+- **[frise](https://github.com/kmadou019/frise)** : application web de frise chronologique, synchronisée via l'API GitHub et déployée avec GitHub Actions.
 
-`Python` `SQL` · `Hugging Face` `LangChain` `LangGraph` `DSPy` · `Ollama` `vLLM` · `scikit-learn` `pandas` · `FastAPI` `Angular` · `Docker` `Git` · `CUDA`
+#### Stack
 
-#### 📫 Contact
-
-kmadou019@gmail.com
+`Python` `Java` `C / CUDA` `SQL` · `Hugging Face` `LangChain` `LangGraph` `DSPy` · `Ollama` `vLLM` · `scikit-learn` `pandas` · `FastAPI` `Angular` `Vue.js` · `Docker` `Git`
